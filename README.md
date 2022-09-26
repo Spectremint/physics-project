@@ -4,3 +4,5 @@ A small game I created in Degica Games' RPG Maker MV, meant as a form of present
 Names of real people were originally included, but I have removed them for the sake of privacy; I don't have GitHub's premium subscription so I can't make a public page with a private repository.
 
 All assets used in-game are from the engine's built-in RTP; all asset rights go to KADOKAWA CORPORATION / Degica Games.
+
+[Click here to view the PDF file explained in the game. (This will open a GitHub tab.)](/Tennis%20Ball%20Sheet.pdf)
