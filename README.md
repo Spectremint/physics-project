@@ -9,6 +9,5 @@ Music © Mark Knight / Mindscape
 
 ***[Click here to play the game.](/www/index.html)***
 
-[Click here to view the PDF file explained in the game. (This will open a GitHub tab.)](/TennisBallSheet.html)
+[Click here to view the tennis ball's table as explained in the game.](/TennisBallSheet.html)
 
-If you like the technical gubbins, you can view the source files [here.](https://github.com/a32bitmint/physics-project)
