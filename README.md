@@ -7,5 +7,6 @@ Assets © KADOKAWA CORPORATION / Degica Games.
 
 Music © Mark Knight / Mindscape
 
+[Click here to play the game.](/index.html)
 
-[Click here to view the PDF file explained in the game. (This will open a GitHub tab.)](/Tennis%20Ball%20Sheet.pdf)
+[Click here to view the PDF file explained in the game. (This will open a GitHub tab.)](/TennisBallSheet.html)
