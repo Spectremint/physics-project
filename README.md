@@ -11,6 +11,8 @@ If you feel like the default speed is too slow, press Escape at any time and ent
 
 [Click here to view the tennis ball's table as explained in the game.](/TennisBallSheet.html)
 
+A downloadable version of the game can be found on my [itch.io page.](https://a32bitmint.itch.io/conceptual-physics-2022)
+
 # About this Project
 This is a small game I wrote in RPG Maker MV. In short, it's a tool designed for writing role-playing games using a robust GUI and JavaScript plugins.<br>
 Many games, both on home computers and video game consoles, have been written in this engine... it's very, very capable.<br>
