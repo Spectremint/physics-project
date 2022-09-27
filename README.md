@@ -4,6 +4,7 @@ Read below for some information on the game or just click one of these two links
 There are *two* control schemes:<br>
 **- Use the ARROW KEYS to move and SPACE to select.**<br>
 **- Use the mouse (or your touch) to click on a tile to move to and click on things to interact with them.**<br>
+If you feel like the default speed is too slow, press Escape at any time and enter the Options menu; from there, turn on **"Always Dash"**.
 
 ***[Click here to play the game.](/www/index.html)***
 
